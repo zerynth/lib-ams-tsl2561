@@ -1,0 +1,8 @@
+{
+	"version":"1.0.0",
+	"title":"TSL2561",
+	"copyright":"Zerynth Team",
+	"files":[
+		["TSL2561","tsl2561.py"]
+	]
+}
