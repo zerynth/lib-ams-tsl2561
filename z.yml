@@ -1,0 +1,15 @@
+---
+description: Driver for AMS TSL2561 Ambient Light Sensor
+fullname: lib.ams.tsl2561
+info:
+    chip_manufacturer: AMS
+    chip_name: TSL2561
+    name: Ambient Light Sensor
+    type: Sensor
+keywords:
+- ams
+- ambient
+- light
+- sensor
+title: TSL2561 Ambient Light Sensor
+...
